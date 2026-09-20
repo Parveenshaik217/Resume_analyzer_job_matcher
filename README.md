@@ -7,7 +7,7 @@ Upload a resume (PDF / DOCX / TXT) and get:
 - **Ranked job matches** = 40% semantic similarity + 60% skill coverage
 - **Skill-gap analysis** for every job, and for any job description you paste in
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:https://ai-resume-analyzer-job-matcher-idhnp9ffqxvgmi2xvcetpj.streamlit.app/   [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
 ## How it works
 
