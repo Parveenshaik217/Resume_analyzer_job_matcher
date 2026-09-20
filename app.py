@@ -113,9 +113,21 @@ with tab_jobs:
     matches = rank_jobs(resume_text, jobs, scorer, report.skills, top_k=top_k)
     st.caption(f"Similarity backend: **{scorer.backend}** · score = 40% semantic similarity + 60% skill coverage")
 
-    chart_df = pd.DataFrame({"Job": [f"{m.title} ({m.company})" for m in matches],
-                             "Score": [m.score for m in matches]}).set_index("Job")
-    st.bar_chart(chart_df)
+    # NOTE: st.dataframe (not st.bar_chart) so the app doesn't depend on altair
+    summary_df = pd.DataFrame({
+        "Job": [f"{m.title} ({m.company})" for m in matches],
+        "Match score": [m.score for m in matches],
+        "Verdict": [m.verdict for m in matches],
+    })
+    st.dataframe(
+        summary_df,
+        hide_index=True,
+        column_config={
+            "Match score": st.column_config.ProgressColumn(
+                "Match score", min_value=0, max_value=100, format="%.0f"
+            )
+        },
+    )
 
     for match in matches:
         label = f"{match.score:.0f}/100 · {match.title} — {match.company} · {match.location} · {match.verdict}"
