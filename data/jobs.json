@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Engineer",
+    "company": "NeuraForge",
+    "location": "Bengaluru / Remote",
+    "description": "Design, train and deploy machine learning models that power our recommendation features. You will work with Python, PyTorch or TensorFlow, scikit-learn and pandas, build feature engineering pipelines, and ship models behind REST APIs using FastAPI and Docker. Experience with Git, unit testing and AWS is a plus."
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "company": "Finlytics",
+    "location": "Hyderabad",
+    "description": "Analyze large financial datasets to find patterns and build predictive models. Strong Python, SQL, pandas, NumPy and statistics skills required. You will run A/B testing, create data visualization dashboards with Tableau or Power BI, and use scikit-learn and XGBoost for modelling."
+  },
+  {
+    "id": 3,
+    "title": "Computer Vision Engineer",
+    "company": "VisionWorks",
+    "location": "Pune",
+    "description": "Build image classification and object detection systems for industrial inspection. Deep learning with PyTorch, OpenCV, CNN architectures, transfer learning and fine-tuning pretrained models. Explainable AI techniques such as Grad-CAM are valued. Python, Docker and Linux experience expected."
+  },
+  {
+    "id": 4,
+    "title": "NLP Engineer",
+    "company": "LexiAI",
+    "location": "Remote",
+    "description": "Develop natural language processing pipelines for document understanding. You will fine-tune transformer models with Hugging Face, work with PyTorch, build semantic search using vector databases such as FAISS, and expose services via FastAPI. Strong Python and Git skills needed."
+  },
+  {
+    "id": 5,
+    "title": "Data Analyst",
+    "company": "RetailPulse",
+    "location": "Mumbai",
+    "description": "Turn retail sales data into insights. Write SQL queries against PostgreSQL and MySQL, clean data with Python and pandas, and build dashboards in Power BI and Tableau. Advanced Excel and statistics knowledge required. Communicate findings to business stakeholders."
+  },
+  {
+    "id": 6,
+    "title": "Backend Engineer (Python)",
+    "company": "CloudNest",
+    "location": "Chennai",
+    "description": "Build scalable backend services in Python using Flask, FastAPI or Django. Design REST APIs and microservices, work with PostgreSQL and Redis, containerise with Docker and deploy on AWS. CI/CD with GitHub Actions, Git and unit testing with pytest are part of daily work."
+  },
+  {
+    "id": 7,
+    "title": "MLOps Engineer",
+    "company": "PipelineIO",
+    "location": "Remote",
+    "description": "Own the machine learning lifecycle from experiment to production. Build CI/CD pipelines, track experiments with MLflow, orchestrate workflows with Airflow, and deploy models on Kubernetes and Docker on AWS or GCP. Python, Linux, Terraform and monitoring with Prometheus and Grafana are required."
+  },
+  {
+    "id": 8,
+    "title": "AI Research Intern",
+    "company": "DeepLabs",
+    "location": "Bengaluru",
+    "description": "Join our research team to prototype deep learning ideas. You should know Python, PyTorch or TensorFlow, neural networks and machine learning fundamentals. Familiarity with Jupyter, NumPy, matplotlib and Git. Experience with NLP, computer vision or reinforcement learning is a bonus."
+  },
+  {
+    "id": 9,
+    "title": "Full Stack Developer",
+    "company": "Webly",
+    "location": "Hyderabad",
+    "description": "Ship customer-facing web applications end to end. React, TypeScript, JavaScript, HTML and CSS on the front end; Node.js, REST APIs and MongoDB on the back end. Git, agile teamwork and unit testing expected."
+  },
+  {
+    "id": 10,
+    "title": "Data Engineer",
+    "company": "StreamBase",
+    "location": "Pune",
+    "description": "Design ETL and data pipelines that move terabytes daily. Strong SQL and Python, plus Apache Spark or PySpark, Airflow, Kafka and Snowflake or BigQuery. Cloud experience with AWS or GCP, Docker and Git required."
+  },
+  {
+    "id": 11,
+    "title": "Generative AI Engineer",
+    "company": "PromptCraft",
+    "location": "Remote",
+    "description": "Build LLM-powered products using generative AI. Prompt engineering, retrieval-augmented generation (RAG) with vector databases such as Pinecone or FAISS, LangChain, and fine-tuning open models via Hugging Face. Python, FastAPI, Streamlit and Docker for shipping demos and services."
+  },
+  {
+    "id": 12,
+    "title": "DevOps Engineer",
+    "company": "InfraLoop",
+    "location": "Bengaluru",
+    "description": "Automate infrastructure and delivery. Kubernetes, Docker, Terraform, Linux, Bash scripting, CI/CD with Jenkins or GitHub Actions on AWS or Azure. Monitoring with Prometheus and Grafana. Python scripting and Git required."
+  }
+]

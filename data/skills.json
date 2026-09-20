@@ -1,0 +1,92 @@
+{
+  "Programming Languages": {
+    "Python": ["python", "python3"],
+    "Java": ["java"],
+    "JavaScript": ["javascript"],
+    "TypeScript": ["typescript"],
+    "C++": ["c++"],
+    "C#": ["c#"],
+    "SQL": ["sql", "t-sql", "pl/sql"],
+    "Go": ["golang"],
+    "Rust": ["rust"],
+    "Bash": ["bash", "shell scripting"]
+  },
+  "Machine Learning & AI": {
+    "Machine Learning": ["machine learning", "ml"],
+    "Deep Learning": ["deep learning", "neural network", "neural networks", "cnn"],
+    "NLP": ["nlp", "natural language processing"],
+    "Computer Vision": ["computer vision", "image classification", "object detection"],
+    "Generative AI": ["generative ai", "genai"],
+    "LLMs": ["llm", "llms", "large language model", "large language models"],
+    "RAG": ["rag", "retrieval augmented generation", "retrieval-augmented generation"],
+    "Prompt Engineering": ["prompt engineering"],
+    "Reinforcement Learning": ["reinforcement learning"],
+    "Transfer Learning": ["transfer learning", "fine-tuning", "finetuning"],
+    "Explainable AI": ["explainable ai", "xai", "grad-cam", "shap"],
+    "Feature Engineering": ["feature engineering"],
+    "PyTorch": ["pytorch", "torch"],
+    "TensorFlow": ["tensorflow"],
+    "Keras": ["keras"],
+    "scikit-learn": ["scikit-learn", "sklearn", "scikit learn"],
+    "Hugging Face": ["hugging face", "huggingface", "transformers"],
+    "OpenCV": ["opencv"],
+    "LangChain": ["langchain"],
+    "XGBoost": ["xgboost"]
+  },
+  "Data & Analytics": {
+    "Pandas": ["pandas"],
+    "NumPy": ["numpy"],
+    "Data Visualization": ["data visualization", "matplotlib", "seaborn", "plotly"],
+    "Statistics": ["statistics", "statistical analysis", "hypothesis testing"],
+    "A/B Testing": ["a/b testing", "ab testing"],
+    "Excel": ["excel", "microsoft excel"],
+    "Power BI": ["power bi", "powerbi"],
+    "Tableau": ["tableau"],
+    "ETL": ["etl", "data pipeline", "data pipelines"],
+    "Spark": ["pyspark", "apache spark"],
+    "Airflow": ["airflow"],
+    "Kafka": ["kafka"]
+  },
+  "Web & APIs": {
+    "Streamlit": ["streamlit"],
+    "Flask": ["flask"],
+    "FastAPI": ["fastapi"],
+    "Django": ["django"],
+    "REST APIs": ["rest api", "rest apis", "restful", "restful api", "restful apis"],
+    "GraphQL": ["graphql"],
+    "React": ["react", "react.js", "reactjs"],
+    "Node.js": ["node.js", "nodejs"],
+    "HTML/CSS": ["html", "css", "html5", "css3"],
+    "Microservices": ["microservice", "microservices"]
+  },
+  "Cloud & DevOps": {
+    "AWS": ["aws", "amazon web services"],
+    "GCP": ["gcp", "google cloud"],
+    "Azure": ["azure"],
+    "Docker": ["docker"],
+    "Kubernetes": ["kubernetes", "k8s"],
+    "CI/CD": ["ci/cd", "github actions", "jenkins", "gitlab ci"],
+    "Terraform": ["terraform"],
+    "Linux": ["linux"],
+    "MLOps": ["mlops"],
+    "MLflow": ["mlflow"],
+    "Monitoring": ["prometheus", "grafana"]
+  },
+  "Databases": {
+    "PostgreSQL": ["postgresql", "postgres"],
+    "MySQL": ["mysql"],
+    "MongoDB": ["mongodb", "mongo"],
+    "Redis": ["redis"],
+    "SQLite": ["sqlite"],
+    "Elasticsearch": ["elasticsearch"],
+    "Vector Databases": ["vector database", "vector databases", "faiss", "pinecone", "chromadb"],
+    "Snowflake": ["snowflake"],
+    "BigQuery": ["bigquery"]
+  },
+  "Practices & Tools": {
+    "Git": ["git", "github", "gitlab"],
+    "Agile": ["agile", "scrum"],
+    "Unit Testing": ["unit testing", "pytest", "unittest"],
+    "Jupyter": ["jupyter", "jupyter notebook"]
+  }
+}

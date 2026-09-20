@@ -1,0 +1,37 @@
+Alex Morgan
+alex.morgan@example.com | +91 98765 43210 | linkedin.com/in/alexmorgan | github.com/alexmorgan
+
+SUMMARY
+Final-year Computer Science student focused on machine learning and computer vision. Built and deployed end-to-end deep learning projects and looking for an AI/ML engineering role.
+
+EDUCATION
+B.Tech in Computer Science, Example Institute of Technology, 2022 - 2026
+CGPA: 8.6 / 10
+
+SKILLS
+Python, SQL, PyTorch, TensorFlow, scikit-learn, OpenCV, pandas, NumPy, matplotlib, Streamlit, FastAPI, Docker, Git, Linux, Jupyter
+
+PROJECTS
+Plant Disease Detector
+- Built an image classification model using transfer learning on ResNet18 with PyTorch, reaching 94% validation accuracy on 38 classes.
+- Implemented Grad-CAM explainability to highlight infected leaf regions and improved trust in predictions.
+- Deployed an interactive Streamlit app that serves predictions in under 2 seconds.
+
+Customer Churn Predictor
+- Developed a machine learning pipeline with feature engineering, scikit-learn and XGBoost; improved recall by 18% over the baseline.
+- Wrapped the model in a REST API using FastAPI and containerized it with Docker.
+
+Movie Recommender
+- Created a content-based recommender using TF-IDF and cosine similarity over 10,000 movies.
+- Optimized query latency by 40% by caching embeddings.
+- Designed a simple evaluation harness to compare ranking quality across 3 similarity metrics.
+
+EXPERIENCE
+Machine Learning Intern, Example Analytics Pvt Ltd, May 2025 - Jul 2025
+- Automated data cleaning with pandas and SQL, reducing manual effort by 5 hours per week.
+- Collaborated with a team of 4 engineers to evaluate 3 candidate models and presented results to stakeholders.
+- Wrote unit tests with pytest and set up GitHub Actions for CI/CD.
+- Documented the training workflow in Jupyter notebooks so teammates could reproduce results.
+
+CERTIFICATIONS
+Deep Learning Specialization - Coursera
