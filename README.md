@@ -75,7 +75,7 @@ pytest -q
 1. Push this folder to a **public GitHub repo**.
 2. Go to https://share.streamlit.io and sign in with GitHub.
 3. Click **Create app**, choose the repo, branch `main`, main file `app.py`.
-4. Click **Deploy**. You get a public `*.streamlit.app` URL.
+4. Click **Deploy**. You get a public `https://resumeanalyzerjobmatcher-4fzwelppyexhhcenqqcbla.streamlit.app/` URL.
 
 Updating: `git push` and the app redeploys automatically.
 
